@@ -1,50 +1,50 @@
 # OpenShift
 
 Module 1: Introduction to OpenShift
-Overview of OpenShift and its components
+  Overview of OpenShift and its components
 
-Comparison with Kubernetes
+  Comparison with Kubernetes
 
-Benefits of using OpenShift for container orchestration
+  Benefits of using OpenShift for container orchestration
 
 Module 2: Setting Up OpenShift
-Installing OpenShift on your local machine or cloud
+  Installing OpenShift on your local machine or cloud
 
-Configuring OpenShift clusters
+  Configuring OpenShift clusters
 
-Accessing the OpenShift web console
+  Accessing the OpenShift web console
 
 Module 3: Basic Concepts
-Understanding containers and images
+  Understanding containers and images
 
-Working with OpenShift projects and namespaces
+  Working with OpenShift projects and namespaces
 
-Creating and managing OpenShift resources (pods, services, deployments)
+  Creating and managing OpenShift resources (pods, services, deployments)
 
 Module 4: Deploying Applications
-Building container images
+  Building container images
 
-Deploying applications using OpenShift
+  Deploying applications using OpenShift
 
-Managing application configurations and secrets
+  Managing application configurations and secrets
 
 Module 5: Scaling and Monitoring
-Scaling applications in OpenShift
+  Scaling applications in OpenShift
 
-Monitoring application performance
+  Monitoring application performance
 
-Using OpenShift's built-in monitoring tools
+  Using OpenShift's built-in monitoring tools
 
 Module 6: Advanced Topics
-Working with OpenShift Operators
+  Working with OpenShift Operators
 
-Managing multi-container applications
+  Managing multi-container applications
 
-Integrating OpenShift with CI/CD pipelines
+  Integrating OpenShift with CI/CD pipelines
 
 Module 7: Hands-On Lab
-Practical exercises to reinforce learning
+  Practical exercises to reinforce learning
 
-Deploying and managing sample applications
+  Deploying and managing sample applications
 
-Troubleshooting common issues
+  Troubleshooting common issues
