@@ -1,4 +1,4 @@
-OpenShift
+# OpenShift
 
 Module 1: Introduction to OpenShift
 Overview of OpenShift and its components
